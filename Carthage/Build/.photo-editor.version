@@ -1,0 +1,19 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "8c642551e9321d5dcf6a68241ec4d28ea2c2ccd7",
+  "iOS" : [
+    {
+      "name" : "iOSPhotoEditor",
+      "hash" : "77815ff93ca71cac2a3a3f41eca7465ff252e4ad094854fd4c48b4e13fb7309b",
+      "swiftToolchainVersion" : "5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+    }
+  ]
+}
